@@ -33,6 +33,9 @@ Framework/include.hpp \
 \
 main.cpp \
 \
+CGameInstance.hpp \
+CGameInstance.cpp \
+\
 -lsfml-audio \
 -lsfml-network \
 -lsfml-graphics \
